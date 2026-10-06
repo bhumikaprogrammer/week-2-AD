@@ -1,0 +1,14 @@
+C:\Users\Bhumika\OneDrive\Desktop\week 2 ad\Workshop\Task 1\obj\Debug\net10.0\Task 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bhumika\OneDrive\Desktop\week 2 ad\Workshop\Task 1\obj\Debug\net10.0\Task 1.AssemblyInfoInputs.cache
+C:\Users\Bhumika\OneDrive\Desktop\week 2 ad\Workshop\Task 1\obj\Debug\net10.0\Task 1.AssemblyInfo.cs
+C:\Users\Bhumika\OneDrive\Desktop\week 2 ad\Workshop\Task 1\obj\Debug\net10.0\Task 1.csproj.CoreCompileInputs.cache
+C:\Users\Bhumika\OneDrive\Desktop\week 2 ad\Workshop\Task 1\bin\Debug\net10.0\Task 1.exe
+C:\Users\Bhumika\OneDrive\Desktop\week 2 ad\Workshop\Task 1\bin\Debug\net10.0\Task 1.deps.json
+C:\Users\Bhumika\OneDrive\Desktop\week 2 ad\Workshop\Task 1\bin\Debug\net10.0\Task 1.runtimeconfig.json
+C:\Users\Bhumika\OneDrive\Desktop\week 2 ad\Workshop\Task 1\bin\Debug\net10.0\Task 1.dll
+C:\Users\Bhumika\OneDrive\Desktop\week 2 ad\Workshop\Task 1\bin\Debug\net10.0\Task 1.pdb
+C:\Users\Bhumika\OneDrive\Desktop\week 2 ad\Workshop\Task 1\obj\Debug\net10.0\Task 1.dll
+C:\Users\Bhumika\OneDrive\Desktop\week 2 ad\Workshop\Task 1\obj\Debug\net10.0\refint\Task 1.dll
+C:\Users\Bhumika\OneDrive\Desktop\week 2 ad\Workshop\Task 1\obj\Debug\net10.0\Task 1.pdb
+C:\Users\Bhumika\OneDrive\Desktop\week 2 ad\Workshop\Task 1\obj\Debug\net10.0\Task 1.genruntimeconfig.cache
+C:\Users\Bhumika\OneDrive\Desktop\week 2 ad\Workshop\Task 1\obj\Debug\net10.0\ref\Task 1.dll
